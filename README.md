@@ -3,7 +3,9 @@ RNA-seq analysis for Tregs paper collaboration with Paul Ashwood
 
 <strong>3'Tag-seq unix scrips:</strong>
 <ul>
-  <li><code>WGCNA_allconditions.R</code></li>
+  <li><code>Master_QuantSeqAnalysis.sh</code></li>
+  <li><code>umi2index</code></li>
+  <li><code>bbduk.sh</code></li>
 </ul>
 
 
