@@ -1,6 +1,14 @@
 # Rose-et-al.-2026
 RNA-seq analysis for Tregs paper collaboration with Paul Ashwood
 
+<strong>3'Tag-seq unix scrips:</strong>
+<ul>
+  <li><code>WGCNA_allconditions.R</code></li>
+</ul>
+
+
+
+
 <strong>Limma-voom pipelines for differential gene expression analysis for each brain region:</strong>
 <ul>
   <li><code>LimmaVoom_DE_RNAseq_CB_sexlitter.R</code></li>
@@ -18,3 +26,4 @@ RNA-seq analysis for Tregs paper collaboration with Paul Ashwood
 <ul>
   <li><code>WGCNA_allconditions.R</code></li>
 </ul>
+
